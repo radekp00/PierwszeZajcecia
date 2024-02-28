@@ -9,6 +9,7 @@ public class Main {
 
   // @Test
   // void addition() {
+  //C2
   // assertEquals(2, 1 + 1);
   // }
 }
